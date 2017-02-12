@@ -1,6 +1,6 @@
 #pragma once
 
-namespace peg_core{
+namespace pegcore{
   class Updatable{
     public:
     virtual void update(double dt) = 0;

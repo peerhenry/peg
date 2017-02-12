@@ -1,8 +1,8 @@
 #pragma once
 
-namespace peg_core{
+namespace pegcore{
   class Initializable{
     public:
     virtual void initialize() = 0;
-  }
-}
+  };
+};

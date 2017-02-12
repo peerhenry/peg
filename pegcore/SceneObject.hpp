@@ -3,7 +3,7 @@
 #include "Updatable.hpp"
 #include "Renderable.hpp"
 
-namespace peg_core{
+namespace pegcore{
   class SceneObject : public Initializable, public Updatable, public Renderable {
-  }
-}
+  };
+};

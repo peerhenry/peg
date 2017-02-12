@@ -1,8 +1,8 @@
 #pragma once
 
-namespace peg_core{
+namespace pegcore{
   class SceneLoop{
     public:
     virtual void run() = 0;
-  }
-}
+  };
+};
